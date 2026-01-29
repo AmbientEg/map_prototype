@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "room": "Hall A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[31.2356,30.0443],[31.2358,30.0443],[31.2358,30.0445],[31.2356,30.0445],[31.2356,30.0443]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "room": "Room B"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[31.2359,30.0443],[31.2361,30.0443],[31.2361,30.0445],[31.2359,30.0445],[31.2359,30.0443]]]
+      }
+    }
+  ]
+}
